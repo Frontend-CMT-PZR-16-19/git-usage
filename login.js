@@ -11,3 +11,4 @@
 // çalışan bir yapı var elimizde
 
 // some changes
+// Örnek değişiklik: Bu satır PR test etmek için eklendi.
